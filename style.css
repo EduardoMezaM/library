@@ -1,1 +1,7 @@
-body{background-color: red;}
+body{
+    background-color: navy;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
